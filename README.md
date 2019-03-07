@@ -1,3 +1,3 @@
-﻿# lap_fragenkatalog
+﻿# LAP Fragenkatalog
 
 Fragenkatalog für LAP Informatik
